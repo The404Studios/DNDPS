@@ -1,0 +1,5 @@
+C:\Users\backu\source\repos\DarkAndDarker\DarkAndDarker\obj\Debug\net8.0\DarkAndDarker.csproj.AssemblyReference.cache
+C:\Users\backu\source\repos\DarkAndDarker\DarkAndDarker\obj\Debug\net8.0\DarkAndDarker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backu\source\repos\DarkAndDarker\DarkAndDarker\obj\Debug\net8.0\DarkAndDarker.AssemblyInfoInputs.cache
+C:\Users\backu\source\repos\DarkAndDarker\DarkAndDarker\obj\Debug\net8.0\DarkAndDarker.AssemblyInfo.cs
+C:\Users\backu\source\repos\DarkAndDarker\DarkAndDarker\obj\Debug\net8.0\DarkAndDarker.csproj.CoreCompileInputs.cache

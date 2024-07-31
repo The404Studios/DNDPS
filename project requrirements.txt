@@ -1,0 +1,3 @@
+dotnet add package YamlDotNet
+
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
